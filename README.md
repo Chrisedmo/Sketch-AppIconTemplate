@@ -7,3 +7,5 @@ Use these templates to design properly scaled versions of your Home screen app i
 This file has been set up so you can simply 'Export...' and all the files will be sized and named as required, in the correct folders:
 * Template-AppIcons-iOS-assets/
 * Template-iMessageAppIcons-iOS-assets/
+
+![Screenshot](/Screenshots/Template-iMessageAppIcons-iOS-assets.png?raw=true)
