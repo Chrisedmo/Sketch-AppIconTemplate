@@ -8,4 +8,6 @@ This file has been set up so you can simply 'Export...' and all the files will b
 * Template-AppIcons-iOS-assets/
 * Template-iMessageAppIcons-iOS-assets/
 
+_Please note: Please remove the masks when exporting your App and Message Icons, as this is for a guide and Apple will do that for you._
+
 ![Screenshot](/Screenshots/Template-iMessageAppIcons-iOS-assets.png?raw=true)
